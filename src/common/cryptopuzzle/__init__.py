@@ -1,0 +1,1 @@
+from .cryptopuzzle import CryptoPuzzle

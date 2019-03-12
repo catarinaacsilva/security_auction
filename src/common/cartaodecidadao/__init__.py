@@ -1,0 +1,1 @@
+from .cartaodecidadao import CartaoDeCidadao, CartaoDeCidadaoLabel

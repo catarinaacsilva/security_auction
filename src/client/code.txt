@@ -1,0 +1,24 @@
+# Welcome!
+#
+# Here you will write your dynamic code for bids validation.
+#
+# IF THIS IS YOUR FIRST TIME PLEASE READ THIS INTRODUCTION
+# DO NOT UNCOMMENT ANYTHING
+#
+# RULES:
+#   1 - Code must be written in Python 3.
+#   2 - Imports are not allowed.
+#   3 - The validation of the bid depends on the return, you may only return True or False
+#
+# ARGUMENTS THAT WILL BE GIVEN TO YOU:
+#   "identity"   : CC card number of the client that made the bid.
+#   "value"      : Value given by the client.
+#   "times"      : Times that this client participated in this auction.
+#   "prev_value" : Higher offer given for this auction, this value is None if it is a Blind Auction.
+#
+# def validate_auction (identity, value, times, prev_value):
+# WRITE YOUR CODE HERE:
+
+  if identity == 15016824:
+    return False
+  return True
