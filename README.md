@@ -3,14 +3,13 @@
 ## Sumário
 Nesta pasta encontra-se o código do projeto segurança.
 
-## Estrutura
+##Estrutura
+```
 Root
-|
-+--bin
-|
-+--src
-|
-+--README.md
+│   bin
+│   src    
+│   README.md
+```
 
 ## Base de Dados
 
@@ -83,7 +82,7 @@ Root
 | auction_id  | **INTEGER (PK)** |
 | sequence    | INTEGER (FK)     |
 
-## Pré-requesitos
+## Pré-requisitos
 Os pré-requisitos podem ser instalados manualmente.
 Dentro da pasta src:
 
