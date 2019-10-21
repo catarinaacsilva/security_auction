@@ -14,6 +14,6 @@ PyYAML==3.13
 requests==2.20.0
 shellescape==3.4.1
 six==1.11.0
-urllib3==1.24
+urllib3==1.24.2
 RestrictedPython==4.0b4
 python-dateutil==2.7.5
