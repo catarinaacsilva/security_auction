@@ -3,7 +3,7 @@ cached-property==1.5.1
 certifi==2018.10.15
 cffi==1.11.5
 chardet==3.0.4
-cryptography==2.3.1
+cryptography==3.2
 idna==2.7
 Naked==0.1.31
 pycparser==2.19
